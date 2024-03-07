@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
-<h3 align="center"> .... just enjoying the process of learning and the freedom that comes along with it  </h3>
+<h3 align="center"> .... just enjoying the process of learning </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-awk&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-awk" /> </p>
 
